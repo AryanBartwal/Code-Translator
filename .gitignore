@@ -1,0 +1,14 @@
+# Ignore Bison/Flex generated files
+lex.yy.c
+y.tab.c
+y.tab.h
+y.output
+
+# Ignore build artifacts
+trans.exe
+*.exe
+*.o
+*.obj
+
+# Ignore other temporary files
+*.log

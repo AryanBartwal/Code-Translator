@@ -11,4 +11,3 @@ y.tab.c: y.y
 
 y.tab.h: y.y
 	win_bison y.y -d ${YACCFLAGS} ${DEBUG}
-
